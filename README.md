@@ -4,7 +4,7 @@ Java Project "CinemaRoomBasic"
 From: <A HREF="https://hyperskill.org/projects/133?track=12"> Project: Cinema Room Manager </A>
 
 ## Stage
-. <A HREF="https:https://github.com/DaloxC/JBA_CinemaRoomBasic/blob/master/src/cinema/MasterCinemaRoom.java"> Finish Code Project! </A>
+. <A HREF="https://github.com/DaloxC/JBA_CinemaRoomBasic/blob/master/src/cinema/MasterCinemaRoom.java"> Finish Code Project! </A>
 
 
 ## DaloxC
